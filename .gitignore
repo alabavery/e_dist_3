@@ -1,0 +1,5 @@
+secret.py
+*.ipynb
+*.json
+*.txt
+*.pyc
